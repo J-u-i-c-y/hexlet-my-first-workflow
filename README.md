@@ -1,1 +1,2 @@
 # hexlet-my-first-workflow
+[![show-directory](https://github.com/J-u-i-c-y/hexlet-my-first-workflow/actions/workflows/codeql.yml/badge.svg)](https://github.com/J-u-i-c-y/hexlet-my-first-workflow/actions/workflows/codeql.yml)
